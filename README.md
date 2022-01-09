@@ -6,7 +6,7 @@
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-_o34a318w) </br>
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-KotWaOsgV) </br>
 :heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm28_project_tracking_intro_component/)
 
 Give a ⭐️ if you like this project!
